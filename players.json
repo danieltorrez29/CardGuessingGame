@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Juan",
+        "points": 2,
+        "best_play": "Mejor jugada el 2022-08-31 a las 12:57 PM"
+    },
+    {
+        "name": "Tatiana",
+        "points": 1,
+        "best_play": "Mejor jugada el 2023-08-30 a las 03:07 PM"
+    },
+    {
+        "name": "Maria",
+        "points": 15,
+        "best_play": "Mejor jugada el 2022-03-11 a las 10:58 PM"
+    },
+    {
+        "name": "Ana",
+        "points": 7,
+        "best_play": "Mejor jugada el 2022-02-10 a las 8:10 PM"
+    },
+    {
+        "name": "Pepe",
+        "points": 8,
+        "best_play": "Mejor jugada el 2022-03-12 a las 08:00 AM"
+    }
+]
